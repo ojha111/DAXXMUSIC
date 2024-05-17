@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "bestmunsicbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "AKKIMUSIC")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
+ASSUSERNAME = getenv("ASSUSERNAME" , "bestmunsicbot")
 # ---------------------------------------------------------
 
 
